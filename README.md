@@ -1,4 +1,4 @@
-# first-nuxt2-app
+# nuxt2-blog-app
 
 ## Build Setup
 
